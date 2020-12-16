@@ -40,3 +40,5 @@ http://jdatechooser.sourceforge.net/
 e-mail: lettervadik@list.ru 
 
 aug-2007
+
+ovo je readme fajl
